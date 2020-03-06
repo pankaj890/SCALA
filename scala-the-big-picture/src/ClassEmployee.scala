@@ -1,4 +1,4 @@
-class Employee {
+class ClassEmployee {
   private var salary: Int = 100
 
   def getSalary() = salary

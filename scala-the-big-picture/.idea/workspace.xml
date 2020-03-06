@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="019b447c-aeb1-41cc-b4e0-42aaa1612055" name="Default Changelist" comment="" />
+    <list default="true" id="019b447c-aeb1-41cc-b4e0-42aaa1612055" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/SCALA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/scala-the-big-picture/Course$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/scala-the-big-picture/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/scala-the-big-picture/ExceptionHandling$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/scala-the-big-picture/ExceptionHandling$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/scala-the-big-picture/ExceptionHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/scala-the-big-picture/NullHandling$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/scala-the-big-picture/NullHandling$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/scala-the-big-picture/NullHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/scala-the-big-picture/Person$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/scala-the-big-picture/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassEmployee.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandling.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingletonObject.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Math.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathCompanion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompanionObject.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseClass.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/func.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +35,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -21,7 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="C:/git/SCALA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -32,7 +61,14 @@
       <recent name="C:\Users\git\SCALA" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ExceptionHandling">
+    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling" />
+      <module name="scala-the-big-picture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="scala-the-big-picture" />
@@ -40,8 +76,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SingletonObject" />
+      <module name="scala-the-big-picture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathCompanion" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CompanionObject" />
+      <module name="scala-the-big-picture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="func" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Functions" />
+      <module name="scala-the-big-picture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionHandling" />
+        <item itemvalue="Application.MathCompanion" />
+        <item itemvalue="Application.func" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
@@ -64,30 +125,40 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="550" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583299362523" />
-    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1583315223222">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583473676234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583473676234" />
+    <state x="521" y="120" key="FileChooserDialogImpl" timestamp="1583427626810">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583315223222" />
-    <state width="639" height="181" key="GridCell.Tab.0.bottom" timestamp="1583311341792">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="521" y="120" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583427626810" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583473739200">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="639" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583311341792" />
-    <state width="639" height="181" key="GridCell.Tab.0.center" timestamp="1583311341792">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583473739200" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583473739200">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="639" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583311341792" />
-    <state width="639" height="181" key="GridCell.Tab.0.left" timestamp="1583311341792">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583473739200" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583473739200">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="639" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583311341792" />
-    <state width="639" height="181" key="GridCell.Tab.0.right" timestamp="1583311341792">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583473739200" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583473739200">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="639" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583311341792" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583299333948">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583473739200" />
+    <state x="426" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1583427549960">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583299333948" />
+    <state x="426" y="213" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583427549960" />
     <state x="687" y="49" key="search.everywhere.popup" timestamp="1583311209949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

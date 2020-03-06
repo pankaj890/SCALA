@@ -1,4 +1,4 @@
-object func extends App{
+object Functions extends App{
 
   //Function with Single Argument
   def addOneZero(number :Int) = {
